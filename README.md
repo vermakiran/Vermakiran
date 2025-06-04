@@ -3,7 +3,7 @@
 
 > _“The only limit to your impact is your imagination and commitment.”_ — **Tony Robbins**
 
-I’m a builder at heart. From AI-powered solutions to smart supply chains, I’m passionate about designing systems that not only solve problems but do so with purpose. My journey so far has been a mix of curiosity, coding, and creativity — all aimed at turning challenges into intuitive, impactful solutions.
+I’m a builder at heart. From data analytics and business intelligence to AI-powered solutions and smart supply chains, I’m passionate about designing systems that not only solve problems but do so with purpose. My journey so far has been a mix of curiosity, coding, and creativity — all aimed at turning challenges into intuitive, impactful solutions.
 
 This space is where my ideas come to life — in the form of machine learning models, forecasting tools, smart apps, and data-driven insights. If you're into innovation, AI, or just love seeing tech used for real-world impact, you're in the right place.
 
@@ -20,6 +20,11 @@ Imagine an AI tool that doesn’t just talk — it *thinks* like your operations
 ✨ My Role: Designed the thinking flow and tuned the prompts for high accuracy.
 
 ---
+### POS - Data Management
+📌 Highlights: 
+- End-to-end ETL workflows
+- Optimized views & stored procedures & advanced SQL querying concepts (CTEs, Joins) 
+- Hosted on AWS EC2
 
 ### 📊 Demand Forecasting Simplified  
 Forecasting doesn’t need to be complicated. I helped build a cloud-native tool that makes demand predictions easy, even with limited data.  
